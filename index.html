@@ -5,19 +5,22 @@
         <meta charset="UTF-8">
         <link rel="stylesheet" href="css/jquery-jvectormap-2.0.3.css" type="text/css" media="screen"/>
         <link rel="stylesheet" href="css/index.css" type="text/css">
+        <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
         <script src="js/jquery.min.js"></script>
         <script src="js/jquery-jvectormap-2.0.3.min.js"></script>
         <script src="js/jquery-jvectormap-world-mill.js"></script>
     </head>
     <body>
-        <div id="world-map" style="width: 75%; height: 100%;"></div>
+        <div id="world-map"></div>
+        <div id="videos">
+        </div>
         <script>
             $(function () {
                 var map = new jvm.Map({
                     container: $('#world-map'),
                     map: 'world_mill',
                     onRegionClick: function (e, code) {
-                        console.log(code);
+                        console.log(map.getRegionName(code));
                     }
                 })
             })
