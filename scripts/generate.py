@@ -36,7 +36,7 @@ def separate(videos):
         info = get_info(video)
         for country in countries:
             if country in info["items"][0]["snippet"]["tags"]:
-                countries[country].append(video)
+                countries[country][video] = videos[video]
     with open('../json/countries.json', 'w') as outfile:
         json.dump(countries, outfile, indent=4)
     return
@@ -45,7 +45,7 @@ def separate(videos):
 def clean_countries():
     countries = json.load(open('../json/countries.json'))
     for country in countries:
-        countries[country] = []
+        countries[country] = {}
     with open('../json/countries.json', 'w') as outfile:
         json.dump(countries, outfile, indent=4)
 

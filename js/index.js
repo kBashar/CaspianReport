@@ -6,7 +6,10 @@ var generate_country = function (name) {
         var videos = json[name];
         $('#country').html(name);
         for (var id in videos) {
-            vids.append("<p>" + id + "</p>")
+            vids.append("<tr>");
+            vids.append("<th>" + id + "</th>");
+            vids.append("<th>" + videos[id] + "</th>");
+            vids.append("</tr>");
         }
     });
 };
