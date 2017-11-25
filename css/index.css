@@ -11,13 +11,25 @@ body {
     height: 100%;
     float: left;
 }
-p {
-    text-align: center;
+#country {
+    font-size: 30px;
+}
+#videos {
+    font-size: 10px;
+}
+#videos a {
+    text-decoration: none;
+    color: white;
+}
+#videos a:hover {
+    color: #414141;
 }
 #side {
+    color: white;
+    text-align: center;
     width: 24.8%;
     height: 100%;
-    background-color: #919191;
+    background-color: #515151;
     float: left;
     border-left: 2px solid #414141;
     overflow-y: scroll;
