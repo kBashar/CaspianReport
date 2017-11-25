@@ -9,6 +9,7 @@
         <script src="js/jquery.min.js"></script>
         <script src="js/jquery-jvectormap-2.0.3.min.js"></script>
         <script src="js/jquery-jvectormap-world-mill.js"></script>
+        <script src="js/index.js"></script>
     </head>
     <body>
         <div id="world-map"></div>
@@ -20,7 +21,7 @@
                     container: $('#world-map'),
                     map: 'world_mill',
                     onRegionClick: function (e, code) {
-                        console.log(map.getRegionName(code));
+                        generate_country(map.getRegionName(code));
                     }
                 })
             })

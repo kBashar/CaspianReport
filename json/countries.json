@@ -1,173 +1,901 @@
 {
-  "countries": [
-    "Afghanistan",
-    "Albania",
-    "Algeria",
-    "Angola",
-    "Argentina",
-    "Armenia",
-    "Australia",
-    "Austria",
-    "Azerbaijan",
-    "Bahamas",
-    "Bangladesh",
-    "Belarus",
-    "Belgium",
-    "Belize",
-    "Benin",
-    "Bhutan",
-    "Bolivia",
-    "Bosnia",
-    "Botswana",
-    "Brazil",
-    "Brunei",
-    "Bulgaria",
-    "Burkina Faso",
-    "Burundi",
-    "Cambodia",
-    "Cameroon",
-    "Canada",
-    "Central African Republic",
-    "Chad",
-    "Chile",
-    "China",
-    "Colombia",
-    "Congo",
-    "Costa Rica",
-    "Croatia",
-    "Cuba",
-    "Cyprus",
-    "Czech Rep.",
-    "Côte d'Ivoire",
-    "Denmark",
-    "Djibouti",
-    "Dominican Republic",
-    "Ecuador",
-    "Egypt",
-    "El Salvador",
-    "Equatorial Guinea",
-    "Eritrea",
-    "Estonia",
-    "Ethiopia",
-    "Falkland Islands",
-    "Fiji",
-    "Finland",
-    "France",
-    "Gabon",
-    "Gambia",
-    "Georgia",
-    "Germany",
-    "Ghana",
-    "Greece",
-    "Greenland",
-    "Guatemala",
-    "Guinea",
-    "Guinea-Bissau",
-    "Guyana",
-    "Haiti",
-    "Honduras",
-    "Hungary",
-    "Iceland",
-    "India",
-    "Indonesia",
-    "Iran",
-    "Iraq",
-    "Ireland",
-    "Israel",
-    "Italy",
-    "Jamaica",
-    "Japan",
-    "Jordan",
-    "Kazakhstan",
-    "Kenya",
-    "Kuwait",
-    "Kyrgyzstan",
-    "Laos",
-    "Latvia",
-    "Lebanon",
-    "Lesotho",
-    "Liberia",
-    "Libya",
-    "Lithuania",
-    "Luxembourg",
-    "Macedonia",
-    "Madagascar",
-    "Malawi",
-    "Malaysia",
-    "Mali",
-    "Mauritania",
-    "Mexico",
-    "Moldova",
-    "Mongolia",
-    "Montenegro",
-    "Morocco",
-    "Mozambique",
-    "Myanmar",
-    "Namibia",
-    "Nepal",
-    "Netherlands",
-    "New Caledonia",
-    "New Zealand",
-    "Nicaragua",
-    "Niger",
-    "Nigeria",
-    "North Korea",
-    "Norway",
-    "Oman",
-    "Pakistan",
-    "Palestine",
-    "Panama",
-    "Papua New Guinea",
-    "Paraguay",
-    "Peru",
-    "Philippines",
-    "Poland",
-    "Portugal",
-    "Puerto Rico",
-    "Qatar",
-    "Romania",
-    "Russia",
-    "Rwanda",
-    "Saudi Arabia",
-    "Senegal",
-    "Serbia",
-    "Sierra Leone",
-    "Slovakia",
-    "Slovenia",
-    "Solomon Islands",
-    "Somalia",
-    "South Africa",
-    "South Korea",
-    "Spain",
-    "Sri Lanka",
-    "Sudan",
-    "Suriname",
-    "Swaziland",
-    "Sweden",
-    "Switzerland",
-    "Syria",
-    "Taiwan",
-    "Tajikistan",
-    "Tanzania",
-    "Thailand",
-    "Togo",
-    "Trinidad and Tobago",
-    "Tunisia",
-    "Turkey",
-    "Turkmenistan",
-    "Uganda",
-    "Ukraine",
-    "United Arab Emirates",
-    "United Kingdom",
-    "United States",
-    "Uruguay",
-    "Uzbekistan",
-    "Vanuatu",
-    "Venezuela",
-    "Vietnam",
-    "West Sahara",
-    "Yemen",
-    "Zambia",
-    "Zimbabwe"
+    "Afghanistan": [
+        "cweLUX0N6ug",
+        "zXZ4pRhY-kU",
+        "-lsHWLpPfAk",
+        "0bMIn1bckDs",
+        "WEDo4WmCwB8",
+        "HWJKc_x1Ur4",
+        "8n8eSf9tkNU"
+    ],
+    "Albania": [],
+    "Algeria": [
+        "yTqusIyXrWA",
+        "9NtRCnPPqso",
+        "IVpj4d-AKac"
+    ],
+    "Angola": [
+        "NwrGsgiTLX8",
+        "yTqusIyXrWA"
+    ],
+    "Argentina": [
+        "VnjO_xvrrTc"
+    ],
+    "Armenia": [
+        "L5IdzH5zJRg",
+        "EL_09mazZs8",
+        "nfc0CzMsF9U",
+        "T-SUlb4rwls",
+        "8n8eSf9tkNU",
+        "pS3P9kk-vFk",
+        "_lWrGub9-_0",
+        "m60y1DzwOTQ",
+        "E2ZAe2XFgjk"
+    ],
+    "Australia": [
+        "3MkZsvrxXxI",
+        "u-0UHyh5Qu8"
+    ],
+    "Austria": [
+        "uKxJmjIxZDA"
+    ],
+    "Azerbaijan": [
+        "6njHg4TGBfc",
+        "L5IdzH5zJRg",
+        "11LlWuktqrI",
+        "EL_09mazZs8",
+        "T-SUlb4rwls",
+        "0LiIduq2ki0",
+        "-RcQ7G5K4OQ",
+        "9tHTZIoUuJI",
+        "8Jq0damMgUU",
+        "qkfGrbayVxE",
+        "JwI5zJAqXrw",
+        "vBI1SlX_vv0",
+        "8n8eSf9tkNU",
+        "pS3P9kk-vFk",
+        "gFYK60OHFqw",
+        "_lWrGub9-_0",
+        "dEJvx513Xr0",
+        "m60y1DzwOTQ",
+        "E2ZAe2XFgjk"
+    ],
+    "Bahamas": [],
+    "Bangladesh": [
+        "cweLUX0N6ug",
+        "1LK1NJZSO5M",
+        "sSxsPHIJQbo"
+    ],
+    "Belarus": [
+        "EL_09mazZs8"
+    ],
+    "Belgium": [
+        "LkRBjKwPr44",
+        "Bsvo8nbjc_I"
+    ],
+    "Belize": [],
+    "Benin": [
+        "ONoaqRaIcT0"
+    ],
+    "Bhutan": [
+        "1LK1NJZSO5M"
+    ],
+    "Bolivia": [
+        "VnjO_xvrrTc"
+    ],
+    "Bosnia": [
+        "11LlWuktqrI"
+    ],
+    "Botswana": [],
+    "Brazil": [
+        "VnjO_xvrrTc",
+        "KD-naLXlvck",
+        "UOHCPf1BJFk",
+        "gojEFksP7Hs"
+    ],
+    "Brunei": [],
+    "Bulgaria": [
+        "ZRgpWyi_jt0",
+        "uKxJmjIxZDA"
+    ],
+    "Burkina Faso": [],
+    "Burundi": [],
+    "Cambodia": [],
+    "Cameroon": [
+        "gojEFksP7Hs"
+    ],
+    "Canada": [
+        "KD-naLXlvck",
+        "dV67yJHoPvw",
+        "pbrKLnh8wLA",
+        "sH5tQWrnO_c"
+    ],
+    "Central African Republic": [],
+    "Chad": [
+        "NwrGsgiTLX8",
+        "gojEFksP7Hs"
+    ],
+    "Chile": [
+        "VnjO_xvrrTc"
+    ],
+    "China": [
+        "Mr69rCHe6z8",
+        "ykYRsmIQkyw",
+        "6njHg4TGBfc",
+        "_iAYTAaCvd8",
+        "VnjO_xvrrTc",
+        "KD-naLXlvck",
+        "xD1nDGeiSAs",
+        "3MkZsvrxXxI",
+        "9RcH-wd88-I",
+        "UOHCPf1BJFk",
+        "pXZnXUZcDE4",
+        "7HuYph7ZqRg",
+        "pcdofW_pV6Q",
+        "lbpCLoXPiC4",
+        "hojGv2bRNnI",
+        "chuEBOqA2ow",
+        "guYMAycJgYA",
+        "EL_09mazZs8",
+        "kBpQiJt3MUQ",
+        "cweLUX0N6ug",
+        "1LK1NJZSO5M",
+        "p8qG-177ArA",
+        "t13zN8smvkE",
+        "TqnUE4grpW0",
+        "0LiIduq2ki0",
+        "u-0UHyh5Qu8",
+        "zXZ4pRhY-kU",
+        "77W2h6CFn_Y",
+        "I6uU8mgLmgk",
+        "sSxsPHIJQbo",
+        "jSh1GakPYLw",
+        "gojEFksP7Hs",
+        "pG225dz89TY",
+        "-P_urGRxJ8M"
+    ],
+    "Colombia": [
+        "VnjO_xvrrTc",
+        "gojEFksP7Hs"
+    ],
+    "Congo": [
+        "LkRBjKwPr44",
+        "NwrGsgiTLX8",
+        "yTqusIyXrWA",
+        "gojEFksP7Hs"
+    ],
+    "Costa Rica": [],
+    "Croatia": [],
+    "Cuba": [
+        "clsarDL0RQY",
+        "pXZnXUZcDE4",
+        "H97DM48XjDg",
+        "pEtF6WPdNa0"
+    ],
+    "Cyprus": [
+        "ZRgpWyi_jt0"
+    ],
+    "Czech Rep.": [],
+    "C\u00c3\u00b4te d'Ivoire": [],
+    "Denmark": [
+        "dV67yJHoPvw",
+        "pbrKLnh8wLA"
+    ],
+    "Djibouti": [],
+    "Dominican Republic": [],
+    "Ecuador": [],
+    "Egypt": [
+        "yTqusIyXrWA",
+        "iAMdptHZWJg",
+        "Q3t6NkVcyMA",
+        "q3cldwpazHo",
+        "_cbBXk4iW5Q",
+        "9NtRCnPPqso",
+        "kBpQiJt3MUQ",
+        "ODk7Yfs0dOw",
+        "nfc0CzMsF9U",
+        "t13zN8smvkE",
+        "Ooa-9Wt8P2o",
+        "UUx9NzzTz-0",
+        "-RcQ7G5K4OQ",
+        "vYUKP4MlNMM",
+        "IVpj4d-AKac",
+        "-lsHWLpPfAk",
+        "SAfUGTk55ME",
+        "vBI1SlX_vv0"
+    ],
+    "El Salvador": [],
+    "Equatorial Guinea": [],
+    "Eritrea": [],
+    "Estonia": [
+        "EL_09mazZs8",
+        "cQD8X-skLmA"
+    ],
+    "Ethiopia": [
+        "NwrGsgiTLX8",
+        "clsarDL0RQY",
+        "yTqusIyXrWA"
+    ],
+    "Falkland Islands": [],
+    "Fiji": [],
+    "Finland": [
+        "cQD8X-skLmA",
+        "04CAKN0V0tk"
+    ],
+    "France": [
+        "KD-naLXlvck",
+        "8xYjv_wi4_Y",
+        "HE6rSljTwdU",
+        "0G4nUFfvR9A",
+        "LgrscEZ7aCM",
+        "rMKb3yMadsg",
+        "9NtRCnPPqso",
+        "aCES82xfgdw",
+        "t13zN8smvkE",
+        "Bsvo8nbjc_I",
+        "Bb0Yfj7VjjU",
+        "xWUG-ILrjYs",
+        "-lsHWLpPfAk",
+        "uKxJmjIxZDA"
+    ],
+    "Gabon": [],
+    "Gambia": [
+        "yTqusIyXrWA"
+    ],
+    "Georgia": [
+        "L5IdzH5zJRg",
+        "EL_09mazZs8",
+        "T-SUlb4rwls",
+        "SHer5ERmaQI",
+        "qkfGrbayVxE",
+        "8n8eSf9tkNU"
+    ],
+    "Germany": [
+        "KD-naLXlvck",
+        "8xYjv_wi4_Y",
+        "HE6rSljTwdU",
+        "0G4nUFfvR9A",
+        "LgrscEZ7aCM",
+        "9NtRCnPPqso",
+        "aCES82xfgdw",
+        "t13zN8smvkE",
+        "xWUG-ILrjYs",
+        "-lsHWLpPfAk",
+        "uKxJmjIxZDA"
+    ],
+    "Ghana": [
+        "yTqusIyXrWA"
+    ],
+    "Greece": [
+        "PTidqySAxNQ",
+        "Bb0Yfj7VjjU",
+        "xWUG-ILrjYs",
+        "-lsHWLpPfAk",
+        "uKxJmjIxZDA"
+    ],
+    "Greenland": [
+        "dV67yJHoPvw"
+    ],
+    "Guatemala": [],
+    "Guinea": [],
+    "Guinea-Bissau": [],
+    "Guyana": [],
+    "Haiti": [],
+    "Honduras": [],
+    "Hungary": [
+        "UggpykXm-Jc",
+        "uKxJmjIxZDA"
+    ],
+    "Iceland": [
+        "TqnUE4grpW0"
+    ],
+    "India": [
+        "hVwIZzGHxwc",
+        "UOHCPf1BJFk",
+        "cweLUX0N6ug",
+        "1LK1NJZSO5M",
+        "xYlWUEqwEy8",
+        "zXZ4pRhY-kU",
+        "sSxsPHIJQbo",
+        "WEDo4WmCwB8",
+        "Km0vBAPwitU",
+        "HWJKc_x1Ur4",
+        "V70Ijsn11uc",
+        "gojEFksP7Hs",
+        "-P_urGRxJ8M"
+    ],
+    "Indonesia": [
+        "_iAYTAaCvd8",
+        "3MkZsvrxXxI",
+        "9RcH-wd88-I",
+        "hojGv2bRNnI"
+    ],
+    "Iran": [
+        "_pKHQNCu1XE",
+        "E0HiV7SiVaE",
+        "6njHg4TGBfc",
+        "KD-naLXlvck",
+        "iAMdptHZWJg",
+        "Q3t6NkVcyMA",
+        "8xYjv_wi4_Y",
+        "pXZnXUZcDE4",
+        "7VGo92WWeJ4",
+        "0G4nUFfvR9A",
+        "lbpCLoXPiC4",
+        "L5IdzH5zJRg",
+        "qzcxywwrgVQ",
+        "BJPOtPl-0NI",
+        "chuEBOqA2ow",
+        "9NtRCnPPqso",
+        "YAQsp0XucTM",
+        "ODk7Yfs0dOw",
+        "nfc0CzMsF9U",
+        "aJ5Y_iXSwj8",
+        "t13zN8smvkE",
+        "TEC9uM1h4i0",
+        "HkqDtHI9SJQ",
+        "u7J_uHlXa48",
+        "-lsHWLpPfAk",
+        "0bMIn1bckDs",
+        "WEDo4WmCwB8",
+        "4YVxJoJUlss",
+        "bVVDLYNjRgA",
+        "8Jq0damMgUU",
+        "qkfGrbayVxE",
+        "JwI5zJAqXrw",
+        "ITgDlK9IZXs",
+        "pxn2Qs7CpPQ",
+        "3hoc37gj0rk",
+        "idHQIMrtB2M",
+        "KFmg2IVe334",
+        "hh8isVX3H9w",
+        "8n8eSf9tkNU",
+        "UggpykXm-Jc",
+        "pS3P9kk-vFk",
+        "gFYK60OHFqw",
+        "7Azy6cjg5eM",
+        "CU1NKgtOYOI"
+    ],
+    "Iraq": [
+        "E0HiV7SiVaE",
+        "6njHg4TGBfc",
+        "iAMdptHZWJg",
+        "pXZnXUZcDE4",
+        "0G4nUFfvR9A",
+        "L5IdzH5zJRg",
+        "BJPOtPl-0NI",
+        "9NtRCnPPqso",
+        "YAQsp0XucTM",
+        "kBpQiJt3MUQ",
+        "72TqrTCRH0I",
+        "ODk7Yfs0dOw",
+        "nfc0CzMsF9U",
+        "aJ5Y_iXSwj8",
+        "UUx9NzzTz-0",
+        "Bb0Yfj7VjjU",
+        "u7J_uHlXa48",
+        "-lsHWLpPfAk",
+        "0bMIn1bckDs",
+        "4YVxJoJUlss",
+        "8Jq0damMgUU",
+        "ITgDlK9IZXs",
+        "idHQIMrtB2M",
+        "KFmg2IVe334"
+    ],
+    "Ireland": [
+        "xWUG-ILrjYs"
+    ],
+    "Israel": [
+        "iAMdptHZWJg",
+        "lbpCLoXPiC4",
+        "wb6IiSUxpgw",
+        "VcB12rNIE04",
+        "t13zN8smvkE",
+        "TEC9uM1h4i0",
+        "r8hAg0y-3R8",
+        "pxn2Qs7CpPQ",
+        "CU1NKgtOYOI"
+    ],
+    "Italy": [
+        "6njHg4TGBfc",
+        "LgrscEZ7aCM",
+        "-lsHWLpPfAk",
+        "UggpykXm-Jc",
+        "uKxJmjIxZDA"
+    ],
+    "Jamaica": [],
+    "Japan": [
+        "_iAYTAaCvd8",
+        "KD-naLXlvck",
+        "xD1nDGeiSAs",
+        "9RcH-wd88-I",
+        "pcdofW_pV6Q",
+        "hojGv2bRNnI",
+        "S65WbVsZL_U",
+        "0LiIduq2ki0",
+        "u-0UHyh5Qu8",
+        "jSh1GakPYLw",
+        "2R707bV83Jo"
+    ],
+    "Jordan": [
+        "idHQIMrtB2M",
+        "CU1NKgtOYOI",
+        "uKxJmjIxZDA"
+    ],
+    "Kazakhstan": [
+        "EL_09mazZs8",
+        "cweLUX0N6ug",
+        "8n8eSf9tkNU"
+    ],
+    "Kenya": [
+        "gojEFksP7Hs"
+    ],
+    "Kuwait": [
+        "9NtRCnPPqso"
+    ],
+    "Kyrgyzstan": [
+        "EL_09mazZs8",
+        "cweLUX0N6ug"
+    ],
+    "Laos": [],
+    "Latvia": [
+        "EL_09mazZs8",
+        "cQD8X-skLmA",
+        "SHer5ERmaQI"
+    ],
+    "Lebanon": [
+        "q3cldwpazHo",
+        "chuEBOqA2ow",
+        "CU1NKgtOYOI",
+        "uKxJmjIxZDA"
+    ],
+    "Lesotho": [],
+    "Liberia": [],
+    "Libya": [
+        "iAMdptHZWJg",
+        "_cbBXk4iW5Q",
+        "cusDmgDJE1Y",
+        "IVpj4d-AKac",
+        "gojEFksP7Hs",
+        "uKxJmjIxZDA",
+        "JqpMvFbMsOE"
+    ],
+    "Lithuania": [
+        "EL_09mazZs8",
+        "cQD8X-skLmA"
+    ],
+    "Luxembourg": [],
+    "Macedonia": [
+        "ZRgpWyi_jt0",
+        "kBpQiJt3MUQ",
+        "uKxJmjIxZDA"
+    ],
+    "Madagascar": [],
+    "Malawi": [],
+    "Malaysia": [
+        "9RcH-wd88-I",
+        "hojGv2bRNnI"
+    ],
+    "Mali": [
+        "NwrGsgiTLX8"
+    ],
+    "Mauritania": [],
+    "Mexico": [
+        "sH5tQWrnO_c"
+    ],
+    "Moldova": [
+        "EL_09mazZs8",
+        "0LiIduq2ki0"
+    ],
+    "Mongolia": [],
+    "Montenegro": [
+        "L5IdzH5zJRg"
+    ],
+    "Morocco": [
+        "yTqusIyXrWA"
+    ],
+    "Mozambique": [
+        "yTqusIyXrWA"
+    ],
+    "Myanmar": [
+        "hojGv2bRNnI",
+        "sSxsPHIJQbo"
+    ],
+    "Namibia": [],
+    "Nepal": [
+        "gojEFksP7Hs"
+    ],
+    "Netherlands": [
+        "LgrscEZ7aCM"
+    ],
+    "New Caledonia": [],
+    "New Zealand": [
+        "3MkZsvrxXxI"
+    ],
+    "Nicaragua": [],
+    "Niger": [
+        "gojEFksP7Hs"
+    ],
+    "Nigeria": [
+        "NwrGsgiTLX8",
+        "ONoaqRaIcT0",
+        "yTqusIyXrWA",
+        "gojEFksP7Hs"
+    ],
+    "North Korea": [
+        "Mr69rCHe6z8",
+        "q8b-sgsfoxU",
+        "pXZnXUZcDE4",
+        "lbpCLoXPiC4",
+        "hojGv2bRNnI",
+        "I6uU8mgLmgk"
+    ],
+    "Norway": [
+        "dV67yJHoPvw",
+        "pbrKLnh8wLA"
+    ],
+    "Oman": [],
+    "Pakistan": [
+        "kBpQiJt3MUQ",
+        "cweLUX0N6ug",
+        "1LK1NJZSO5M",
+        "nfc0CzMsF9U",
+        "VPUptlmC9SU",
+        "TqnUE4grpW0",
+        "WEDo4WmCwB8",
+        "Km0vBAPwitU",
+        "HWJKc_x1Ur4",
+        "V70Ijsn11uc",
+        "gojEFksP7Hs",
+        "-P_urGRxJ8M"
+    ],
+    "Palestine": [
+        "iAMdptHZWJg",
+        "wb6IiSUxpgw",
+        "r8hAg0y-3R8",
+        "CU1NKgtOYOI"
+    ],
+    "Panama": [
+        "TqnUE4grpW0"
+    ],
+    "Papua New Guinea": [],
+    "Paraguay": [
+        "VnjO_xvrrTc"
+    ],
+    "Peru": [
+        "VnjO_xvrrTc"
+    ],
+    "Philippines": [
+        "9RcH-wd88-I",
+        "hojGv2bRNnI"
+    ],
+    "Poland": [
+        "HE6rSljTwdU",
+        "11LlWuktqrI",
+        "EL_09mazZs8",
+        "xWUG-ILrjYs",
+        "-lsHWLpPfAk"
+    ],
+    "Portugal": [
+        "-lsHWLpPfAk"
+    ],
+    "Puerto Rico": [],
+    "Qatar": [
+        "_pKHQNCu1XE",
+        "Q3t6NkVcyMA",
+        "_cbBXk4iW5Q"
+    ],
+    "Romania": [
+        "11LlWuktqrI",
+        "EL_09mazZs8",
+        "8n8eSf9tkNU"
+    ],
+    "Russia": [
+        "v6jHhzj08yQ",
+        "6njHg4TGBfc",
+        "_iAYTAaCvd8",
+        "KD-naLXlvck",
+        "xD1nDGeiSAs",
+        "dV67yJHoPvw",
+        "UOHCPf1BJFk",
+        "8xYjv_wi4_Y",
+        "pXZnXUZcDE4",
+        "pbrKLnh8wLA",
+        "HE6rSljTwdU",
+        "pcdofW_pV6Q",
+        "lbpCLoXPiC4",
+        "L5IdzH5zJRg",
+        "11LlWuktqrI",
+        "qzcxywwrgVQ",
+        "oyI93qlaY1w",
+        "-Ir1oN_8sIg",
+        "_cbBXk4iW5Q",
+        "chuEBOqA2ow",
+        "EL_09mazZs8",
+        "cweLUX0N6ug",
+        "aCES82xfgdw",
+        "nfc0CzMsF9U",
+        "t13zN8smvkE",
+        "cQD8X-skLmA",
+        "TqnUE4grpW0",
+        "0LiIduq2ki0",
+        "TEC9uM1h4i0",
+        "Y93ip0lMNJ8",
+        "Bsvo8nbjc_I",
+        "XMv9EvthOrQ",
+        "77W2h6CFn_Y",
+        "-lsHWLpPfAk",
+        "0bMIn1bckDs",
+        "jSh1GakPYLw",
+        "qkfGrbayVxE",
+        "idHQIMrtB2M",
+        "KFmg2IVe334",
+        "8n8eSf9tkNU",
+        "UggpykXm-Jc",
+        "pS3P9kk-vFk",
+        "_lWrGub9-_0",
+        "7Azy6cjg5eM",
+        "CU1NKgtOYOI",
+        "BT4sK36cU3Y",
+        "m60y1DzwOTQ"
+    ],
+    "Rwanda": [
+        "yTqusIyXrWA"
+    ],
+    "Saudi Arabia": [
+        "R2jllzAy1BU",
+        "_pKHQNCu1XE",
+        "iAMdptHZWJg",
+        "Q3t6NkVcyMA",
+        "7VGo92WWeJ4",
+        "0G4nUFfvR9A",
+        "L5IdzH5zJRg",
+        "_cbBXk4iW5Q",
+        "aCES82xfgdw",
+        "t13zN8smvkE",
+        "UzTBev_svWI",
+        "KjUMB8taEYY",
+        "UUx9NzzTz-0",
+        "mhd4nVgUCdw",
+        "-lsHWLpPfAk",
+        "4YVxJoJUlss",
+        "LnQwkXCwErA",
+        "idHQIMrtB2M",
+        "hh8isVX3H9w",
+        "9tHwvZ9XDLU",
+        "uKxJmjIxZDA"
+    ],
+    "Senegal": [
+        "yTqusIyXrWA"
+    ],
+    "Serbia": [
+        "L5IdzH5zJRg",
+        "11LlWuktqrI",
+        "ZRgpWyi_jt0",
+        "T-SUlb4rwls",
+        "uKxJmjIxZDA"
+    ],
+    "Sierra Leone": [],
+    "Slovakia": [],
+    "Slovenia": [
+        "uKxJmjIxZDA"
+    ],
+    "Solomon Islands": [
+        "3MkZsvrxXxI"
+    ],
+    "Somalia": [
+        "NwrGsgiTLX8",
+        "clsarDL0RQY",
+        "gojEFksP7Hs"
+    ],
+    "South Africa": [
+        "LkRBjKwPr44",
+        "NwrGsgiTLX8",
+        "yTqusIyXrWA"
+    ],
+    "South Korea": [
+        "Mr69rCHe6z8",
+        "ykYRsmIQkyw",
+        "H7fwvtEBXUE",
+        "I6uU8mgLmgk"
+    ],
+    "Spain": [
+        "K56C2cpCQZM",
+        "-lsHWLpPfAk"
+    ],
+    "Sri Lanka": [
+        "cweLUX0N6ug",
+        "zXZ4pRhY-kU"
+    ],
+    "Sudan": [
+        "yTqusIyXrWA"
+    ],
+    "Suriname": [],
+    "Swaziland": [],
+    "Sweden": [
+        "HE6rSljTwdU",
+        "cQD8X-skLmA",
+        "xWUG-ILrjYs"
+    ],
+    "Switzerland": [],
+    "Syria": [
+        "iAMdptHZWJg",
+        "0G4nUFfvR9A",
+        "L5IdzH5zJRg",
+        "qzcxywwrgVQ",
+        "BJPOtPl-0NI",
+        "oyI93qlaY1w",
+        "chuEBOqA2ow",
+        "YAQsp0XucTM",
+        "ODk7Yfs0dOw",
+        "nfc0CzMsF9U",
+        "-RcQ7G5K4OQ",
+        "r8hAg0y-3R8",
+        "Bsvo8nbjc_I",
+        "u7J_uHlXa48",
+        "-lsHWLpPfAk",
+        "SAfUGTk55ME",
+        "qkfGrbayVxE",
+        "idHQIMrtB2M",
+        "KFmg2IVe334",
+        "UggpykXm-Jc",
+        "gf3mlSYG5fQ",
+        "CU1NKgtOYOI",
+        "BT4sK36cU3Y",
+        "uKxJmjIxZDA"
+    ],
+    "Taiwan": [
+        "_iAYTAaCvd8",
+        "xD1nDGeiSAs",
+        "9RcH-wd88-I",
+        "pcdofW_pV6Q"
+    ],
+    "Tajikistan": [
+        "EL_09mazZs8",
+        "cweLUX0N6ug"
+    ],
+    "Tanzania": [
+        "yTqusIyXrWA"
+    ],
+    "Thailand": [
+        "9RcH-wd88-I",
+        "rMKb3yMadsg"
+    ],
+    "Togo": [
+        "yTqusIyXrWA"
+    ],
+    "Trinidad and Tobago": [],
+    "Tunisia": [
+        "UUx9NzzTz-0"
+    ],
+    "Turkey": [
+        "E0HiV7SiVaE",
+        "6njHg4TGBfc",
+        "iAMdptHZWJg",
+        "Q3t6NkVcyMA",
+        "0G4nUFfvR9A",
+        "L5IdzH5zJRg",
+        "qzcxywwrgVQ",
+        "BJPOtPl-0NI",
+        "_cbBXk4iW5Q",
+        "chuEBOqA2ow",
+        "ODk7Yfs0dOw",
+        "aJ5Y_iXSwj8",
+        "t13zN8smvkE",
+        "0LiIduq2ki0",
+        "r8hAg0y-3R8",
+        "Bsvo8nbjc_I",
+        "Bb0Yfj7VjjU",
+        "-wXyFShqwBk",
+        "u7J_uHlXa48",
+        "-lsHWLpPfAk",
+        "4YVxJoJUlss",
+        "qkfGrbayVxE",
+        "ITgDlK9IZXs",
+        "idHQIMrtB2M",
+        "KFmg2IVe334",
+        "8n8eSf9tkNU",
+        "UggpykXm-Jc",
+        "pS3P9kk-vFk",
+        "_lWrGub9-_0",
+        "BT4sK36cU3Y",
+        "uKxJmjIxZDA",
+        "m60y1DzwOTQ"
+    ],
+    "Turkmenistan": [
+        "6njHg4TGBfc",
+        "EL_09mazZs8",
+        "8n8eSf9tkNU"
+    ],
+    "Uganda": [
+        "yTqusIyXrWA"
+    ],
+    "Ukraine": [
+        "v6jHhzj08yQ",
+        "8xYjv_wi4_Y",
+        "HE6rSljTwdU",
+        "lbpCLoXPiC4",
+        "11LlWuktqrI",
+        "FXrz1swotUg",
+        "EL_09mazZs8",
+        "q-FYM5QkXZ8",
+        "TqnUE4grpW0",
+        "77W2h6CFn_Y",
+        "VNi32y1i-Ls",
+        "qkfGrbayVxE",
+        "G-hmX0uzZHw",
+        "UggpykXm-Jc",
+        "bhkmFO8DikY",
+        "GUNrk52Lv0U",
+        "J5a4HbTV9qo",
+        "ZWSj0M132e8"
+    ],
+    "United Arab Emirates": [
+        "_pKHQNCu1XE",
+        "Q3t6NkVcyMA"
+    ],
+    "United Kingdom": [
+        "0G4nUFfvR9A",
+        "xWUG-ILrjYs"
+    ],
+    "United States": [
+        "Mr69rCHe6z8",
+        "6njHg4TGBfc",
+        "clsarDL0RQY",
+        "dV67yJHoPvw",
+        "3MkZsvrxXxI",
+        "Q3t6NkVcyMA",
+        "8xYjv_wi4_Y",
+        "pbrKLnh8wLA",
+        "pcdofW_pV6Q",
+        "0G4nUFfvR9A",
+        "lbpCLoXPiC4",
+        "chuEBOqA2ow",
+        "pEtF6WPdNa0",
+        "aJ5Y_iXSwj8",
+        "t13zN8smvkE",
+        "0LiIduq2ki0",
+        "VNi32y1i-Ls",
+        "qkfGrbayVxE",
+        "idHQIMrtB2M",
+        "uKxJmjIxZDA"
+    ],
+    "Uruguay": [
+        "VnjO_xvrrTc"
+    ],
+    "Uzbekistan": [
+        "EL_09mazZs8",
+        "cweLUX0N6ug"
+    ],
+    "Vanuatu": [],
+    "Venezuela": [
+        "VnjO_xvrrTc",
+        "H97DM48XjDg",
+        "OrfM5UD-Azk",
+        "pEtF6WPdNa0",
+        "Yx6DjsqbFN8"
+    ],
+    "Vietnam": [
+        "hojGv2bRNnI"
+    ],
+    "West Sahara": [],
+    "Yemen": [
+        "iAMdptHZWJg",
+        "Q3t6NkVcyMA",
+        "7VGo92WWeJ4",
+        "aCES82xfgdw",
+        "nfc0CzMsF9U",
+        "1YPC2OPWoiI",
+        "HkqDtHI9SJQ",
+        "fH70gRkS92o",
+        "-lsHWLpPfAk",
+        "hh8isVX3H9w"
+    ],
+    "Zambia": [
+        "yTqusIyXrWA"
+    ],
+    "Zimbabwe": [
+        "NwrGsgiTLX8",
+        "p8qG-177ArA"
     ]
 }
