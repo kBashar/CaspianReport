@@ -46,7 +46,7 @@ def clean_countries():
     countries = json.load(open('../json/countries.json'))
     for country in countries:
         countries[country] = []
-    with open('../json/countries.json', 'w') as outfile:
+    with open('json/countries.json', 'w') as outfile:
         json.dump(countries, outfile, indent=4)
 
 
